@@ -1,7 +1,6 @@
 # Recipes
 
 A place to render family recipes: https://githubschool.github.io/recipes
-I like to cook !!
 
 ## Contributing
 - Fork Repository
@@ -18,6 +17,3 @@ To get started, just run:
 script/server
 ```
 This will run a few other commands to ensure that you're all up to date. If you're familiar with Jekyll, this runs `jekyll serve --watch`
-
-
-
